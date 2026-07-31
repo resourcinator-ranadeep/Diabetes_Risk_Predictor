@@ -9,7 +9,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-**Model Accuracy: 96%** &nbsp;|&nbsp; **Diabetic Recall: 79%** &nbsp;|&nbsp; **Memory Footprint: < 150 MB**
+ **Diabetic Recall: 79%** &nbsp;|&nbsp; **Memory Footprint: < 150 MB**
 
 </div>
 
